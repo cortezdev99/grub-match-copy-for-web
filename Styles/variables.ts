@@ -1,0 +1,10 @@
+export const primary = "#33363a";
+export const dark = "#1f2125";
+export const warning = "#ac262b";
+export const highlight = "#eb523c";
+export const lightGrey = "#EAEAEA";
+export const green = "#15CC00";
+export const white = "#fff";
+export const lightPurple = "#BB86FC";
+export const darkPurple = "#3700B3";
+export const darkOrange = "#f3aa4e";
