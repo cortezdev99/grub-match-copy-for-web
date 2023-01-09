@@ -23,7 +23,7 @@
     "expo-location": "~8.1.0",
     "expo-permissions": "~8.1.0",
     "firebase": "^7.14.4",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "random": "^2.2.0",
     "randomcolor": "^0.5.4",
     "react": "~16.9.0",
